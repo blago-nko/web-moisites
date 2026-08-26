@@ -1,0 +1,21 @@
+{
+  "site": "web-moisites",
+  "generated_at": "2026-08-26T15:26:32.091391",
+  "source": "data/blogger/sitemap.xml",
+  "total_urls": 11,
+  "redirects_count": 11,
+  "skipped_count": 0,
+  "redirects": {
+    "/2022/04/vebinar-najdi-sebya-v-seti-internet.html": "/vebinar-najdi-sebya-v-seti-internet/",
+    "/2021/11/materialy-k-zanyatiyam-v-internet-shkole.html": "/materialy-k-zanyatiyam-v-internet-shkole/",
+    "/2020/07/raspisanie-besplatnoj-internet-shkoly.html": "/raspisanie-besplatnoj-internet-shkoly/",
+    "/2020/07/zapisatsya-v-internet-shkolu.html": "/zapisatsya-v-internet-shkolu/",
+    "/2020/04/internet-shkola.html": "/internet-shkola/",
+    "/2018/12/spisok-sajtov.html": "/spisok-sajtov/",
+    "/2018/12/programmy-dlya-sozdaniya-i-prodvizheniya-sajta.html": "/programmy-dlya-sozdaniya-i-prodvizheniya-sajta/",
+    "/2018/12/soglasie-na-obrabotku-personalnyh-dannyh-nesovershennoletnego.html": "/soglasie-na-obrabotku-personalnyh-dannyh-nesovershennoletnego/",
+    "/2018/11/o-proekte.html": "/o-proekte/",
+    "/2018/12/obuchenie-ehffektivnomu-razmeshcheniyu-materialov-v-internete.html": "/obuchenie-ehffektivnomu-razmeshcheniyu-materialov-v-internete/",
+    "/2018/11/besplatnye-domeny.html": "/besplatnye-domeny/"
+  }
+}
