@@ -1,8 +1,10 @@
-baseURL = "/"
+baseURL = "https://blago-nko.github.io/web-moisites/"
 languageCode = "ru-ru"
 title = "web-moisites"
-relativeURLs = true
 
 [params]
   description = "Миграция с Blogger на Hugo"
   noindex = true
+
+[markup.goldmark.renderer]
+  unsafe = true
