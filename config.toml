@@ -8,3 +8,4 @@ title = "web-moisites"
 
 [markup.goldmark.renderer]
   unsafe = true
+uglyURLs = true
